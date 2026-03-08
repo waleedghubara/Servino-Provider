@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696352642194",
+    "project_id": "servino-85dab",
+    "storage_bucket": "servino-85dab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696352642194:android:e5aeccbdd0f4e7fe06c24b",
+        "android_client_info": {
+          "package_name": "com.example.servino_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOh_2bIC-ldRQ-QsUoD0osMo3dMkkN_1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696352642194:android:7edb85de4eff8a7f06c24b",
+        "android_client_info": {
+          "package_name": "online.walidghubara.servinoprovider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOh_2bIC-ldRQ-QsUoD0osMo3dMkkN_1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
